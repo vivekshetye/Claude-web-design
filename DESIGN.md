@@ -168,23 +168,36 @@ Vivek Shetye is positioned as:
 
 **Purpose:** Visualize career progression and technical growth
 
-**CORRECTED MILESTONES (from Resume - Verified Accurate):**
+**MILESTONES (from Resume - Verified Accurate):**
 
-1. **Jul 2013 – Jul 2014** — Associate Software Engineer @ KloudIQ
-   - Developed Python script for stock market data analysis → 20% research improvement
-   - Tech: AWS (EC2, S3), Python, Django, JavaScript, jQuery
+1. **February 2023 – Present** — Senior Software Engineer @ Egen.ai (Client: Tempus AI)
+   - Toronto, Ontario
+   - Architected Agentic clinical trial matching application with reasoning model
+   - Built Citation Agent for data integrity validation and QA
+   - Tech: Python, Langchain, Postgres, Google ADK, GCP, BigQuery, LLM
 
-2. **Jul 2016 – Nov 2017** — Deep Learning Research Engineer @ Anthology
-   - Designed novel deep learning algorithms for computer vision and NLP
-   - Tech: PyTorch, TensorFlow, OpenCV, Scikit-learn, NLP, RL, Research Publications
+2. **November 2021 – February 2023** — Senior Software Engineer @ Egen.ai (Client: Peapod)
+   - Hyderabad, India
+   - Migrated historical order database from SQL to NoSQL schema
+   - Improved storage/retrieval performance by 60%
+   - Tech: Java, Spring Boot, Docker, Kafka, Azure, Kubernetes, CosmosDB, Datadog, Splunk
 
-3. **Nov 2017 – Jun 2021** — Senior Software Engineer / Tech Lead @ Nanonaut
-   - Led ML platform for recommendation systems and search relevance
-   - Tech: Kubernetes, TensorFlow, Kubeflow, AWS, PostgreSQL, Redis, Kafka, Apache Beam, Dataflow
+3. **May 2019 – November 2021** — Software Engineer @ Peapod
+   - Chicago, IL
+   - Transformed order processing to event-driven architecture (50K orders: 4hrs → 15min)
+   - Decomposed monolith into containerized microservices
+   - Tech: Java, Spring Boot, Docker, Kafka, Azure, Kubernetes, HashiCorp Vault, Splunk
 
-4. **2021 – Present** — AI Product Builder / Content Creator
-   - Built AI tools (AI Agent Dev, AutoPR, AskAI)
-   - YouTube: 100K+ subscribers teaching AI Agents, Automation, GenAI
+4. **January 2018 – April 2018** — Software Engineer Intern @ Veracode
+   - Burlington, MA
+   - Worked on AWS backend infrastructure for Veracode Greenlight (100K+ users)
+   - Revamped Python decryption module for CSV data retrieval
+   - Tech: AWS, Python
+
+5. **August 2015 – February 2016** — Web Developer (Freelance)
+   - Sujay Child Development Center
+   - Built client-specific UIs with HTML5, CSS3, jQuery, JavaScript
+   - Tech: PHP, JavaScript, HTML5, CSS3, Bootstrap, AJAX, jQuery, MySQL
 
 ### Page 3: Content Creator Hub (Screen ID: 10408684259242dc840d0b3135ea2d52)
 
