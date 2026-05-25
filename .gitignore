@@ -1,3 +1,20 @@
+# Environment & secrets
 .env
+.env.*
+!.env.example
 .claude/settings.local.json
+
+# Build outputs
+node_modules/
+.next/
+.vercel/
+
+# Screenshots & design artifacts
+*.png
 resources/
+
+# Playwright
+.playwright-mcp/
+
+# MCP config (non-sensitive but local)
+.mcp.json
